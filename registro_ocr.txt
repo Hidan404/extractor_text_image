@@ -1,0 +1,6 @@
+INFO:root:2025-04-18 21:18:03.768748 - Corrigindo rotação: -90.00 graus
+INFO:root:2025-04-18 21:18:04.604718 - Idioma detectado: pt
+INFO:root:2025-04-18 21:18:04.605151 - Texto salvo em: resultado_ocr.txt
+INFO:root:2025-04-18 21:20:46.594499 - Corrigindo rotação: -90.00 graus
+INFO:root:2025-04-18 21:20:47.280388 - Idioma detectado: pt
+INFO:root:2025-04-18 21:20:47.280735 - Texto salvo em: resultado_ocr.txt
