@@ -55,7 +55,7 @@ def extract_text(image_path, lang='por'):
 
 # Uso ##################################################
 if __name__ == "__main__":
-    image_path = "4.png"  # Substituir pelo seu arquivo
+    image_path = "emprego.jpeg"  # Substituir pelo seu arquivo
     extracted_text = extract_text(image_path)
     
     if extracted_text:
